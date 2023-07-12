@@ -1,9 +1,11 @@
 ---
 layout: resume
-title: Brigham Young's Resume
+title: Cade Anderson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Cade Anderson
+- Psychology Major
+- Data Science Minor
+- Focus on Healthcare Administration
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -15,15 +17,11 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2020-2024`
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
 
 
 ## Related Experience
@@ -73,11 +71,17 @@ __Pinnacle Management Group__,
 ## Service and Work History
 
 `2025-2027`
-__Math Tutor__, LDSBC
+__Teachers Assistant__, Psychology Department, for classes: 
+
+- Cognition 
+- General Psychology
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2018-2020`
+__Service Missionary__, 
+
+- Porto Portugal
+- Lisbon Portugal
 
 
 
