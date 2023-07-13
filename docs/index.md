@@ -1,85 +1,45 @@
----
-layout: cv
-title: Cade's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Cade Anderson
+(208)-813-4976 • and20042@byui.edu • [linkedin.com/ln/cade-anderson23](linkedin.com/ln/cade-anderson23)
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+## EDUCATION
+ `September 2020 - December 2023`
+ __Bachelor of Science in Psychology__, Brigham Young University - Idaho Rexburg, ID
+- GPA: 3.8
+- Minor: Data Science.
+- Emphasis in Health Psychology and Healthcare Administration.
+  
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+## EXPERIENCE
+`January 2022 - Janurary 2023`
+__Research Lab Manager__
+  Brigham Young University-Idaho Rexburg, ID
+- Facilitated the achievement of four professional-grade research projects through deliberate goal setting, and by assisting others in task management.
+- Mobilized teams of skilled students through identifying clear directions and establishing simple steps to follow.
+- Expedited the process of grading and providing feedback to a class of 90+ students, by strategically budgeting my time while accounting for a flexible schedule.
+- Showcased outstanding performance through impassioned adherence to a self-regulated itinerary.
+- Demonstrated considerable professionalism by engaging in consistent, effortful work on a near-daily basis.
 
-## Education
+`September 2022 - April 2023` __General Psychology Teacher's Assistant__
+- Collaborated with fellow TAs and faculty to develop innovative teaching strategies, enhancing the overall learning experience for students.
+- Adapted teaching methods to accommodate diverse learning styles and individual needs, promoting inclusivity and academic success.
+- Utilized effective communication skills to facilitate constructive feedback and constructive criticism, fostering a positive and supportive learning environment.
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`January 2023 - April 2023` __Lead Teacher's Assistant__
+- Mentored subordinate TAs in an effective and enabling manner.
+- Aligned subordinate TAs, and corrected behavior, to increase time efficiency and quality with a warm and patient approach.
+- Accelerated progress by leading a small team in setting goals with an emphasis on accountability.
 
-- Full academic scholarship with 4.0 GPA
+## VOLUNTEER EXPERIENCE
+`December 2016 - December 2018` __Full-Time Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints Porto / Lisbon, Portugal
+- Headed the training, assessing, and caring for emotional needs of volunteers.
+- Prepared studiously to present simple and moving teachings of the restored gospel of Jesus Christ to diverse audiences.
+- Sustained strong work ethic by carefully managing my time and daily objectives under various complicated circumstances.
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
-
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
+`January 2020 - Present` __Various Positions of Church Leadership__, The Church of Jesus Christ of Latter-day Saints Middleton / Rexburg, ID
+- Oversaw the effectiveness and preparedness of instructors.
+- Managed dynamic organizations while allowing others to develop skills and talents by providing opportunities for others to lead and stretch themselves.
+- Maintained considerable patience and tolerance of ambiguity throughout situations of uncertainty, change, and development.
+- Developed necessary soft skills to assist others in learning and in personal growth.
 
 
 <!-- ### Footer
