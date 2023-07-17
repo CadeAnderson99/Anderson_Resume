@@ -41,6 +41,7 @@ __Research Lab Manager__
 - Maintained considerable patience and tolerance of ambiguity throughout situations of uncertainty, change, and development.
 - Developed necessary soft skills to assist others in learning and in personal growth.
 
+# Terrible, delete everything lol
 
 <!-- ### Footer
 
